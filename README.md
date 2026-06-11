@@ -2,6 +2,7 @@
 - Part of Microsoft Skill Set Festival -
 Interactive case study for Contoso Healthcare Solutions, a national provider of clinical trial management and health services, headquartered in Boston. 
 
+### Environment:
 ### Hybrid IT: 
 On premises datacenters for data aggregation and Microsoft Azure for AI diagnostics. 
 
